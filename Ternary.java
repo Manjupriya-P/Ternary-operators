@@ -11,6 +11,6 @@ public class Ternary {
 		// TODO Auto-generated method stub
 		
 
-	}hello
+	}
 
 }
